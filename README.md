@@ -5,9 +5,9 @@ date: "`r Sys.Date()`"
 output: pdf_document
 ---
 
-# Ifeanyi-s-Data-Projects
+# Projects Overview
 
-These are some personal projects I've undertaken in the purpose of enhancing/showcasing my data science skills and analytical processes. Enjoy :)
+This is one of some personal projects I've undertaken in the purpose of enhancing/showcasing my data science skills and analytical processes. Enjoy :)
 
 ## Introduction and background
 
@@ -40,7 +40,7 @@ library("skimr")
 library("timetk")
 ```
 
-### Loading/Viewing CSV files
+### Loading/Viewing data files
 
 First, we created numerous data frames by reading in the following XLSX files created from the original data set. Note, these files were converted to an excel format after downloading.
 
@@ -381,6 +381,6 @@ In our analysis, were able to note 3 major findings:
 
 Without much information on the participants we are unable to determine a strong marketing reccomendation. However, seeing as most participant engaged in some level of physical activity we can assume cutomers buying products such as this are trying to either improve of maintain some level of fitness appropriate for them. That said, the company should spend more resources in improving the features of the products available or in creating new products to compliment the current offerings. These include ideas such as:
 
-* Enabling users to track more fitness metrics like weight; blood pressure; or breathing patterns.
-* Using user interaction data to extend battery life and reduce energy consumption.
-* Individualizing the user insight delivered to the consumer by the system application. One sugestion is to provide bedtime recommendations based on energy expenditure throughout the day.
+* Enabling users with the ability to track more fitness metrics like weight; blood pressure; or breathing patterns. This can be done through either offering new products or imporving the available devices to collect more user data.
+* Using user activity data to optimize/extend battery life through reduced energy consumption during sedentary periods.
+* Individualizing the user insight delivered to the consumer by the system application. One suggestion is to provide bedtime recommendations based on energy expenditure throughout the day.

@@ -11,11 +11,11 @@ This is one of some personal projects I've undertaken in the purpose of enhancin
 
 ## Introduction and background
 
-In this case study, I will perform data analysis for Bellabeat, a high-tech manufacturer of health-focused products for women. I was tasked to analyze smart device data to gain insight into how consumers use their smart devices and provide insights on how to improve the features offered on their devices.
+In this case study, I will make data driven recommendations for Bellabeat, a high-tech manufacturer of health-focused products for women. I analyze smart device data to gain insight into how consumers use their smart devices and provide insights on how to improve the features offered on their product.
 
 ### Area of focus
 
-I chose to focus on the Leaf bracelet, which is jewlery that doubles as a wellness tracker that collects information such as: fitness activity, sleep habits, and menstrual cycles.
+I chose to focus on the Leaf bracelet, which is smart jewlery that works as a wellness tracker that collects information such as: fitness activity, sleep habits, and menstrual cycles.
 
 ## Data integrity
 
